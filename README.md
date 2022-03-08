@@ -5,14 +5,17 @@
 <hr/>
 <h4 align="center"> I find solutions to problems in creative ways. As a final-year IB Diploma Programme student, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center">
+  <a href="https://github.com/Vitalik-Hakim?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vitalik-hakim?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+<p align="center">
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 <br><br>
-
 - 👨🏽‍💻 I’m currently working on M++ Compiler;
 - 🌱 I’m currently learning Assembly; 
 - 💬 Ask me about anything, I am happy to help;
