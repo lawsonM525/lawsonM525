@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Assembly; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[LinkedIn/Resume](https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/)
-- I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler with @Vitalik-Hakim using assembly language. Any help would be much appreciated!
+- I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler and an interpreter with [@Vitalik-Hakim](https://github.com/Vitalik-Hakim) using assembly language. Any help would be much appreciated!
 <br>
 
 #
@@ -29,10 +29,10 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></code>
-<code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img height="40" width="40" src="https://mohammadijoo.ir/image/Assembly-logo.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
+<code><img height="40" width="40" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
@@ -58,9 +58,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="davidchen:davidchen950106@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/davidchen95"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/david-chen-248828233/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="michelle:lawson_m@soshgic.edu.gh"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/lawsonm525"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
@@ -71,10 +71,10 @@
     <br/>
   <br/>
   <p align="center">
-    <a href="https://github.com/lawsonm525/github-readme-stats"><img alt="davidchen95's Github Stats" src="https://github-readme-stats.vercel.app/api?username=davidchen95&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
+    <a href="https://github.com/lawsonm525/github-readme-stats"><img alt="Michelle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lawsonm525&show_icons=true&count_private=true&theme=highcontrast" height="192px"/></a>
 <br/><br/>
   &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawsonm525&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="davidchen95" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lawsonm525&langs_count=10&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="lawsonm525" height="192px"/>
   <br/>
 <br/>
 
