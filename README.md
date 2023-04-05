@@ -1,9 +1,9 @@
 <h1 align="center"> 👋 Hi , I'm Michelle Lawson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=High+School+Student;Software+Developer;Algorithm+Freak;Always%20learning%20new%20theories&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=College+Freshman;Software+Developer;Finance+Freak;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. As a final-year IB Diploma Programme student, I have learnt from my many ventures that problem-solving is an important skill to have and have improved this skill through trial and error over the years. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Freshman in College. computer Science Major. </h4> 
 
 <br>
 <p align="center">
@@ -17,11 +17,11 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 <br><br>
-- 👨🏽‍💻 I’m currently working on M++ Compiler;
-- 🌱 I’m currently learning Assembly; 
+- 👨🏽‍💻 I’m currently working on Data Structures Final Project;
+- 🌱 I’m currently learning Java; 
 - 💬 [Text Me](https://t.me/lawson_m)
 - 📝 [LinkedIn/Resume](https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/)
-- I have a good understanding of System Development and Computer Organization. Currently, I'm trying to build a compiler and an interpreter with [@Vitalik-Hakim](https://github.com/Vitalik-Hakim) using assembly language. Any help would be much appreciated!
+- I have a good understanding of Financial Systems. The goal is to one day merge my knowledge of computer Science with my love for Equity Investments in the world of Finance.
 <br>
 
 #
