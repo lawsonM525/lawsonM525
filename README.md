@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=College+Freshman;Software+Developer;Finance+Freak;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Freshman in College. computer Science Major. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Freshman in College. Computer Science Major. Global Finance Concentration. </h4> 
 
 <br>
 <p align="center">
@@ -42,7 +42,7 @@
 <code><img height="40" width="40" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://icon-library.com/images/loading-icon-transparent-background/loading-icon-transparent-background-12.jpg"></code>
+<code><img height="40" width="40" src="https://img1.pnghut.com/1/12/11/qQ9tEEnkPt/comment-area-logo-brand-programmer.jpg"></code>
 
 #
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
