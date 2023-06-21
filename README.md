@@ -20,7 +20,7 @@
 - 👨🏽‍💻 I’m currently working on Data Structures Final Project;
 - 🌱 I’m currently learning Java; 
 - 💬 [Text Me](https://t.me/lawson_m)
-- 📝 [LinkedIn/Resume](https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/)
+- 📝 [LinkedIn](https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/)
 - I have a good understanding of Financial Systems. The goal is to one day merge my knowledge of computer Science with my love for Equity Investments in the world of Finance.
 <br>
 
