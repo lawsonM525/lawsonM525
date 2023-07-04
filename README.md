@@ -14,7 +14,7 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.gif?cid=790b7611lauumhsp4wgcnvmlyc102yzdg9jsd7lglwbm0swk&ep=v1_gifs_search&rid=200w.gif&ct=g" width="500" height="350" />
 
 <br><br>
 - 👨🏽‍💻 I’m currently working on a news feed aggregator for finance news;
