@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=College+Freshman;Software+Developer;Finance+Freak;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Freshman in College. Computer Science Major. Global Finance Concentration. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Sophomore @ Smith College. Computer Science Major. Global Finance Concentration. </h4> 
 
 <br>
 <p align="center">
@@ -17,16 +17,16 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" />
 
 <br><br>
-- 👨🏽‍💻 I’m currently working on Data Structures Final Project;
-- 🌱 I’m currently learning Java; 
-- 💬 [Text Me](https://t.me/lawson_m)
-- 📝 [LinkedIn](https://www.linkedin.com/in/michelle-naa-odarley-lawson-218894215/)
-- I have a good understanding of Financial Systems. The goal is to one day merge my knowledge of computer Science with my love for Equity Investments in the world of Finance.
+- 👨🏽‍💻 I’m currently working on a news feed aggregator for finance news;
+- 🌱 I’m currently learning web development; 
+- 💬 [Text Me](https://t.me/michellexcomputer)
+- 📝 [LinkedIn](https://www.linkedin.com/in/michelle-naa-odarley-lawson)
+- I have a good understanding of Financial Systems. The goal is to one day merge my knowledge of Computer Science with my love for Equity Investments in the world of Finance.
 <br>
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif"></a>
 <br/>
 **LANGUAGES AND TOOLS:**  
 
