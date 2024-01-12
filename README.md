@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=College+Freshman;Software+Developer;Data+Analyst;Finance+Freak;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I find solutions to problems in creative ways. 17 years old. Sophomore @ Smith College. Computer Science Major. Global Finance Concentration. </h4> 
+<h4 align="center"> I find solutions to problems in creative ways. Sophomore @ Smith College. Computer Science Major. Global Finance Concentration. </h4> 
 
 <br>
 <p align="center">
