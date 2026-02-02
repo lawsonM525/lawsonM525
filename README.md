@@ -55,4 +55,4 @@ A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 
 ## 🌸 Connect with michellescomputer
 [Portfolio](https://michellelawson.me) | [TikTok](https://tiktok.com/@michellescomputer) | [Instagram](https://instagram.com/michellexcomputer) | [LinkedIn](https://linkedin.com/in/michelle-o-lawson/)
 
-**"Dey spy you"** — Building intentional **AI for Gen Z**. 🧱✨
+**"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI for Gen Z**. 🧱✨
