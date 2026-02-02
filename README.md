@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.tenor.com/3TVEwSKUDqUAAAAC/girl-sourd.gif" width="300" />
   <br>
-  <i>"Absolute sexy motherfucker in the IDE."</i> 💅
+  <i>"Relentless builder bridging the gap between AI and lifestyle."</i> 💅
 </p>
 
 ![Michelle Lawson](https://github.com/lawsonM525/lawsonM525/blob/main/michelle.jpg) 
@@ -38,8 +38,8 @@ Shipping is a habit. This is my journey of 10 products in 10 weeks. 🚀
 ---
 
 ## 🧠 Brain Flex
-- **M++:** A high-level compiler because the existing ones weren't sexy enough.
-- **Insanity:** Coding in Brainfuck. If you know, you know. 💀🤓
+- **M++:** A high-level compiler built because I wanted a more elegant approach to syntax.
+- **Insanity:** Coding in Brainfuck. If you know, you know. 🤯🤓
 
 ---
 
