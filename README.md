@@ -21,7 +21,7 @@ A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 
   <tr>
     <td width="50%" valign="top">
       <h3>01. Sprite Sheet Generator</h3>
-      <img src="https://via.placeholder.com/400x200?text=Sprite+Sheet+Gen" width="100%" />
+      <video src="sprite-sheet-demo.mp4" width="100%" autoplay loop muted></video>
       <p>Frontend Tooling for high-speed asset creation. Built to automate the "boring stuff" for game devs.</p>
       <a href="https://github.com/lawsonM525/sprite-sheet-generator">Repo</a> | <a href="https://www.sprite-sheet-generator.com">Live App</a>
     </td>
