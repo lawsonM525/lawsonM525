@@ -108,17 +108,20 @@ Building a "Recursive Mind" one page at a time.
       <b>Squibb</b>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Hesse</b>
-    </td>
-    <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/51VFkbM2siL.jpg" width="100" height="150" /><br/>
       <b>Naval</b>
     </td>
+    <td width="20%" align="center">
+      <!-- Empty slot for consistent 5x grid -->
+    </td>
   </tr>
   <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
+      <b>Hesse</b>
+    </td>
     <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
       <img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316471909.jpg" width="100" height="150" /><br/>
@@ -138,9 +141,6 @@ Building a "Recursive Mind" one page at a time.
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/81vRKV9N1tL.jpg" width="100" height="150" /><br/>
       <b>Show Work</b>
-    </td>
-    <td width="20%" align="center">
-      <!-- Placeholder -->
     </td>
   </tr>
 </table>
