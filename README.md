@@ -1,5 +1,8 @@
 # Hi, I'm Michelle Lawson 🦩✨
-### AI Engineer | Indie Hacker | Builder | Founder of Computer Science Girlies 🤓💚
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F710D4&center=true&vCenter=true&width=500&lines=Founder+of+CS+Girlies;Recursive+Builder+%F0%9F%A7%B1;AI+Engineer+%2B+Product+Founder;Building+intentional+AI+for+Gen+Z" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://media.tenor.com/3TVEwSKUDqUAAAAC/girl-sourd.gif" width="300" alt="Michelle Lawson AI Engineer Gen Z Coder Coding Development" />
@@ -8,6 +11,56 @@
 </p>
 
 Building **AI-powered tools** and **mobile applications** that help people design their dream lives. I'm a **Smith College '26** Computer Science student, a community builder for 200k+ **women in tech**, and a **Recursive Builder** who ships efficient **Full-Stack** code.
+
+---
+
+## 🏗️ The "10 Apps in 10 Weeks" Challenge
+A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 production-ready products to solve real problems for the **Gen Z audience**.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01. Sprite Sheet Generator</h3>
+      <img src="https://via.placeholder.com/400x200?text=Sprite+Sheet+Gen" width="100%" />
+      <p>Frontend Tooling for high-speed asset creation. Built to automate the "boring stuff" for game devs.</p>
+      <a href="https://github.com/lawsonM525/sprite-sheet-generator">Repo</a> | <a href="#">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02. Future U (BETA)</h3>
+      <img src="https://via.placeholder.com/400x200?text=Future+U+Mobile" width="100%" />
+      <p>AI-Powered Career Coaching and path mapping. Built with Next.js 14 and OpenAI. 💜</p>
+      <a href="https://github.com/lawsonM525/future-u">Repo</a> | <a href="#">Live App</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03. Pagez</h3>
+      <img src="https://via.placeholder.com/400x200?text=Pagez+Mobile" width="100%" />
+      <p>Relationship & habit journaling using AI-driven Knowledge Graphs. Personal CRM for the soft life.</p>
+      <a href="#">Coming Soon</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04. Dreamz</h3>
+      <img src="https://via.placeholder.com/400x200?text=Dreamz" width="100%" />
+      <p>React Native mobile lifestyle integration for high-performance productivity.</p>
+      <a href="https://github.com/lawsonM525/Dreamz">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05. Vibecut</h3>
+      <img src="https://via.placeholder.com/400x200?text=Vibecut" width="100%" />
+      <p>Programmatic video editing agent. Turning prompts into social-ready edits. 🎥</p>
+      <a href="#">In Dev</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>06. Daily</h3>
+      <img src="https://via.placeholder.com/400x200?text=Daily+SaaS" width="100%" />
+      <p>SaaS journaling app built on ChatGPT Apps SDK. Simple, elegant, efficient.</p>
+      <a href="https://github.com/lawsonM525/daily">Repo</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -22,33 +75,59 @@ Expertise in **Full Stack Development**, **AI Integration**, and **Mobile App En
   <img src="https://media.tenor.com/cxY-NZbCSZoAAAAC/logo.gif" width="50" alt="OpenAI LLM Integration" title="OpenAI"/>
 </p>
 
-**Keywords:** JavaScript (ES6+), Node.js, GPT-4, LLMs, Vector Databases (Pinecone), MongoDB, Tailwind CSS, Expo, Git, SaaS, Automation, and Prompt Engineering.
-
 ---
 
-## 🏗️ The "10 Apps in 10 Weeks" Challenge
-A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 production-ready products to solve real problems for the **Gen Z audience**.
-
-- **Week 1:** [Sprite Sheet Generator](https://github.com/lawsonM525/sprite-sheet-generator) — **Frontend Tooling** for high-speed asset creation.
-- **Week 2:** [Future U](https://github.com/lawsonM525/future-u) (BETA) — **AI-Powered Career Coaching** and path mapping. Built with **Next.js 14** and **OpenAI**. 💜
-- **Week 3:** **Pagez** — **Mobile App** for relationship & habit journaling using **AI-driven Knowledge Graphs**.
-- **Week 4:** [Dreamz](https://github.com/lawsonM525/Dreamz) — **React Native** mobile lifestyle integration for productivity.
-- **Week 5:** **Vibecut** — **Creative Technologist** project: Programmatic video editing agent. 🎥
-- **Week 6:** [Daily](https://github.com/lawsonM525/daily) — **SaaS** journaling app built on **ChatGPT Apps SDK**.
-- **Week 7:** **Coder** — **Web & Mobile Platform** for learning software engineering.
-
----
-
-## 🧠 Technical Deep Dives (The "Cracked Engineer" Flex)
-- **M++:** A high-level **Compiler** built using [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) — a deep dive into low-level logic and esoteric language mapping. 🤯
+## 🧠 Technical Deep Dives
+- **M++:** A high-level **Compiler** built using Brainfuck — mapping esoteric logic to usable code. 🤯
 - **System Architecture:** Scalable **Full-Stack** applications and **API Design**.
-- **Theoretical CS:** Deep work in **Haskell**, **Java**, and assembly-level logic. 🤓
 
 ---
 
-## 📊 Impact & Visibility
-![Michelle Lawson GitHub stats](https://github-readme-stats.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight)
-![Top Languages AI Engineer](https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight)
+## 📚 Currently Reading & Intellectual Stack
+Building a "Recursive Mind" one page at a time.
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/913A1+rl-gL.jpg" width="100" /><br/>
+      <b>The Go-Giver</b><br/>
+      <i>Bob Burg & John David Mann</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" /><br/>
+      <b>Siddhartha</b><br/>
+      <i>Hermann Hesse</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/71aLultW5EL.jpg" width="100" /><br/>
+      <b>The Alchemist</b><br/>
+      <i>Paulo Coelho</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/71Yy3fGsmNL.jpg" width="100" /><br/>
+      <b>Utopia for Realists</b><br/>
+      <i>Rutger Bregman</i>
+    </td>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/81vRKV9N1tL.jpg" width="100" /><br/>
+      <b>Show Your Work!</b><br/>
+      <i>Austin Kleon</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
