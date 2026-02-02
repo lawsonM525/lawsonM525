@@ -40,9 +40,9 @@ A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 
 ---
 
 ## 🧠 Technical Deep Dives (The "Cracked Engineer" Flex)
-- **M++:** **Compiler Design** and **High-level Language Development**.
+- **M++:** A high-level **Compiler** built using [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) — a deep dive into low-level logic and esoteric language mapping. 🤯
 - **System Architecture:** Scalable **Full-Stack** applications and **API Design**.
-- **Theoretical CS:** Deep work in **Haskell**, **Java**, and esoteric languages like **Brainfuck** (Insanity repo). 🤯
+- **Theoretical CS:** Deep work in **Haskell**, **Java**, and assembly-level logic. 🤓
 
 ---
 
