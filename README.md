@@ -1,7 +1,7 @@
 # Hi, I'm Michelle Lawson 🦩✨
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F710D4&center=true&vCenter=true&width=500&lines=Founder+of+CS+Girlies;Recursive+Builder+%F0%9F%A7%B1;AI+Engineer+%2B+Product+Founder;Building+intentional+AI+for+Gen+Z" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F710D4&center=true&vCenter=true&width=500&lines=Founder+of+CS+Girlies;Builder+%F0%9F%A7%B1;AI+Engineer+%2B+Product+Founder;Building+intentional+AI+for+Gen+Z" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <i>"Software Engineer & Product Founder bridging the gap between AI Innovation and Gen Z Lifestyle."</i> 💅
 </p>
 
-Building **AI-powered tools** and **mobile applications** that help people design their dream lives. I'm a **Smith College '26** Computer Science student, a community builder for 200k+ **women in tech**, and a **Recursive Builder** who ships efficient **Full-Stack** code.
+Building **AI-powered tools** and **mobile applications** that help people design their dream lives. I'm a **Smith College '26** Computer Science student, a community builder for 200k+ **women in tech**, and a **Builder** who ships efficient **Full-Stack** code.
 
 ---
 
