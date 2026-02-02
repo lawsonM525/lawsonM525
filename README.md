@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/3TVEwSKUDqUAAAAC/girl-sourd.gif" width="300" alt="Michelle Lawson AI Engineer Gen Z Coder Coding Development" />
+  <img src="https://i.pinimg.com/originals/2c/04/87/2c04873e0aa82bc9d8d33b60d4a50230.gif" width="400" alt="Michelle Lawson AI Engineer" />
   <br>
   <i>"Software Engineer & Product Founder bridging the gap between AI Innovation and Gen Z Lifestyle."</i> 💅
 </p>
