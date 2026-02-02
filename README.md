@@ -88,40 +88,45 @@ Building a "Recursive Mind" one page at a time.
 
 <table>
   <tr>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/51VFkbM2siL.jpg" width="100" height="150" /><br/>
-      <b>Naval Ravikant</b>
+      <b>Naval</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/91Ey0+6N-LL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
       <b>Da Vinci</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/61qYKhU5hWL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Copywriting</b>
+      <b>Adweek</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/71WMnKx5xCL.jpg" width="100" height="150" /><br/>
-      <b>Simon Squibb</b>
+      <b>Squibb</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Siddhartha</b>
+      <b>Hesse</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316471909.jpg" width="100" height="150" /><br/>
+      <b>Utopia</b>
+    </td>
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/81P+UUKWAXL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
       <b>Go-Giver</b>
     </td>
-    <td width="14.2%" align="center">
+    <td width="12.5%" align="center">
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/71+2-t7M35L._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>The Alchemist</b>
+      <b>Alchemist</b>
     </td>
   </tr>
 </table>
