@@ -83,40 +83,35 @@ Expertise in **Full Stack Development**, **AI Integration**, and **Mobile App En
 
 ---
 
-## 📚 Currently Reading & Intellectual Stack
+## 📚 Recursive Mind Library
 Building a "Recursive Mind" one page at a time.
 
 <table>
   <tr>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/913A1+rl-gL.jpg" width="100" /><br/>
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/81P+UUKWAXL._AC_UF1000,1000_QL80_.jpg" width="100" /><br/>
       <b>The Go-Giver</b><br/>
-      <i>Bob Burg & John David Mann</i>
     </td>
     <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" /><br/>
       <b>Siddhartha</b><br/>
-      <i>Hermann Hesse</i>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/71aLultW5EL.jpg" width="100" /><br/>
+      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/71+2-t7M35L._AC_UF1000,1000_QL80_.jpg" width="100" /><br/>
       <b>The Alchemist</b><br/>
-      <i>Paulo Coelho</i>
     </td>
     <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/71Yy3fGsmNL.jpg" width="100" /><br/>
       <b>Utopia for Realists</b><br/>
-      <i>Rutger Bregman</i>
     </td>
     <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
       <img src="https://m.media-amazon.com/images/I/81vRKV9N1tL.jpg" width="100" /><br/>
       <b>Show Your Work!</b><br/>
-      <i>Austin Kleon</i>
     </td>
   </tr>
 </table>
