@@ -104,9 +104,9 @@ Building a "Recursive Mind" one page at a time.
       <b>The Alchemist</b><br/>
     </td>
     <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/71Yy3fGsmNL.jpg" width="100" /><br/>
-      <b>Utopia for Realists</b><br/>
+      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
+      <img src="https://m.media-amazon.com/images/I/51VFkbM2siL.jpg" width="100" /><br/>
+      <b>Naval Ravikant</b><br/>
     </td>
     <td width="20%" align="center">
       <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
