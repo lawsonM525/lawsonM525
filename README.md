@@ -1,5 +1,5 @@
 # Hi, I'm Michelle Lawson 🦩✨
-### AI Engineer | Indie Hacker | Recursive Builder | Founder of Computer Science Girlies 🤓💚
+### AI Engineer | Indie Hacker | Builder | Founder of Computer Science Girlies 🤓💚
 
 <p align="center">
   <img src="https://media.tenor.com/3TVEwSKUDqUAAAAC/girl-sourd.gif" width="300" alt="Michelle Lawson AI Engineer Gen Z Coder Coding Development" />
