@@ -15,10 +15,6 @@ Building **AI-powered tools** and **mobile applications** that help people desig
 ---
 
 ## 🏗️ The "10 Apps in 10 Weeks" Challenge
-<p align="center">
-  <img src="https://i.pinimg.com/originals/eb/1c/86/eb1c86030bdfba3bfb9d401dd72bf071.gif" width="600" alt="Building Mood" />
-</p>
-
 A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 production-ready products to solve real problems for the **Gen Z audience**.
 
 <table>
@@ -65,6 +61,10 @@ A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/eb/1c/86/eb1c86030bdfba3bfb9d401dd72bf071.gif" width="600" alt="Building Mood" />
+</p>
 
 ---
 
