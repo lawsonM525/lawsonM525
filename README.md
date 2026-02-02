@@ -15,6 +15,10 @@ Building **AI-powered tools** and **mobile applications** that help people desig
 ---
 
 ## 🏗️ The "10 Apps in 10 Weeks" Challenge
+<p align="center">
+  <img src="https://i.pinimg.com/originals/eb/1c/86/eb1c86030bdfba3bfb9d401dd72bf071.gif" width="600" alt="Building Mood" />
+</p>
+
 A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 production-ready products to solve real problems for the **Gen Z audience**.
 
 <table>
@@ -152,6 +156,10 @@ Building a "Recursive Mind" one page at a time.
 ---
 
 ## 🌸 Connect with michellescomputer
+<p align="center">
+  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/5b3c236c2b32/anigif_sub-buzz-8183-1594774797-1.gif?output-format=auto&output-quality=auto&downsize=360%3A%2A" width="300" alt="Connect Vibe" />
+</p>
+
 [Portfolio](https://michellelawson.me) | [TikTok](https://tiktok.com/@michellescomputer) | [Instagram](https://instagram.com/michellexcomputer) | [LinkedIn](https://linkedin.com/in/michelle-o-lawson/)
 
 **"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI for Gen Z**. 🧱✨
