@@ -1,54 +1,59 @@
-<div align="center">
+# Hi, I'm Michelle Lawson 🦩✨
+### AI Engineer | Indie Hacker | Recursive Builder | Founder of CS Girlies 🤓💚
 
-# Hey, I'm Michelle 👋
+<p align="center">
+  <img src="https://media.tenor.com/3TVEwSKUDqUAAAAC/girl-sourd.gif" width="300" />
+  <br>
+  <i>"Absolute sexy motherfucker in the IDE."</i> 💅
+</p>
 
-**Senior @ Smith College** · CS + Global Finance · Founder of [Computer Science Girlies](https://csgirlies.com)
+![Michelle Lawson](https://github.com/lawsonM525/lawsonM525/blob/main/michelle.jpg) 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michellelawson.me-000000?style=flat-square&logo=safari&logoColor=white)](https://www.michellelawson.me/projects)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-michelle--o--lawson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-o-lawson)
-
-</div>
-
----
-
-I find solutions to problems in creative ways. I build things at the intersection of **AI**, **web/mobile dev**, and **finance**. Big believer in shipping fast and iterating — aka "vibe coding."
-
-The long-term goal? Merge CS expertise with equity investments in finance.
+Building AI-powered tools to help people design their dream lives. currently a **Smith College '26** CS student and community builder for 200k+ tech girlies. I ship fast, iterate hard, and **Dey Spy You.**
 
 ---
 
-### Things I've Built
-
-**Currently working on:**
-- **[tenthousandhours](https://github.com/lawsonM525/tenthousandhours)** — Time-tracking app to help you reach 10,000-hour mastery in anything
-- **[Aether](https://github.com/lawsonM525/Aether)** — Web app project in active development
-- **[layer-ai](https://github.com/lawsonM525/layer-ai)** — Open-source AI gateway for unified access to multiple LLM providers
-
-**Past projects I'm proud of:**
-- **[vibecut](https://github.com/lawsonM525/vibecut)** — Web-based video editor with timeline editing, text overlays, and Remotion rendering
-- **[sprite-sheet-generator](https://github.com/lawsonM525/sprite-sheet-generator)** — AI-powered tool for creating animated sprite sheets in pixel art, neon, and other styles
-- **[MysteryHub](https://github.com/lawsonM525/MysteryHub)** — Interactive platform for mystery fans with detective games, cold case blogs, and film recs
-- **[Wordle-Solver](https://github.com/lawsonM525/Wordle-Solver)** — Strategic assistant that narrows down Wordle answers based on guess feedback
-- **[comp-sci-girlies](https://github.com/lawsonM525/comp-sci-girlies)** — Web platform for the CS Girlies community I founded
+## 🛠️ The Power Stack
+<p align="left">
+  <img src="https://media.tenor.com/debRmLSSY9EAAAAC/logo-animation-aquieoge.gif" width="50" title="Python"/> &nbsp;
+  <img src="https://media.tenor.com/9KNobD0YbiAAAAAC/appventure-myappventure.gif" width="50" title="TypeScript"/> &nbsp;
+  <img src="https://media.tenor.com/wVLYCrMvRr4AAAAC/doud-logo-animated.gif" width="50" title="React"/> &nbsp;
+  <img src="https://media.tenor.com/veS3RsR-afoAAAAC/next-js-logo-next-js.gif" width="50" title="Next.js"/> &nbsp;
+  <img src="https://media.tenor.com/cxY-NZbCSZoAAAAC/logo.gif" width="50" title="OpenAI"/>
+</p>
 
 ---
 
-### Tech I Use
+## 🏗️ 10 Apps in 10 Weeks Challenge
+Shipping is a habit. This is my journey of 10 products in 10 weeks. 🚀
 
-```
-Languages      TypeScript · JavaScript · Python · Java
-Frontend       React · React Native · TailwindCSS · Next.js
-AI/ML          AI Engineering · Prompt Design · LLM Integration
-Tools          Git · VS Code · Figma · Vercel
-```
+- **Week 1:** [Sprite Sheet Generator](https://github.com/lawsonM525/sprite-sheet-generator) - High-speed asset creation.
+- **Week 2:** [Future U](https://github.com/lawsonM525/future-u) (BETA) - AI-powered path mapping. 💜
+- **Week 3:** **Pagez** - Relationship & habit journaling with knowledge graphs.
+- **Week 4:** [Dreamz](https://github.com/lawsonM525/Dreamz) - Mobile lifestyle integration.
+- **Week 5:** **Vibecut** - Programmatic video editing agent. 🎥
+- **Week 6:** [Daily](https://github.com/lawsonM525/daily) - Journaling app built on ChatGPT SDK.
+- **Week 7:** **Coder** - Web & Mobile platform for learning to code.
 
 ---
 
-### Stats
+## 🧠 Brain Flex
+- **M++:** A high-level compiler because the existing ones weren't sexy enough.
+- **Insanity:** Coding in Brainfuck. If you know, you know. 💀🤓
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=lawsonm525&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonm525&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+## 📊 The Numbers
+![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight)
 
-</div>
+---
+
+## 🌸 Connect with the 🦩
+[Website](https://michellelawson.me) | [TikTok](https://tiktok.com/@michellescomputer) | [Instagram](https://instagram.com/michellexcomputer) | [LinkedIn](https://linkedin.com/in/michelle-o-lawson/)
+
+<p align="right">
+  <img src="https://media.tenor.com/jp9GJ56oYB8AAAAC/diegodrawsart-women-and-girls-in-science.gif" width="100" />
+</p>
+
+**"Dey spy you"** — build something they can't ignore. 🧱✨
