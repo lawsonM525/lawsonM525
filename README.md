@@ -149,8 +149,8 @@ Building a "Recursive Mind" one page at a time.
 
 ## 📊 Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight" />
 </p>
 
 ---
