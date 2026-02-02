@@ -27,7 +27,7 @@ A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 
     </td>
     <td width="50%" valign="top">
       <h3>02. Future U (BETA)</h3>
-      <img src="https://via.placeholder.com/400x200?text=Future+U+Mobile" width="100%" />
+      <img src="future-u-preview.jpg" width="100%" />
       <p>AI-Powered Career Coaching and path mapping. Built with Next.js 14 and OpenAI. 💜</p>
       <a href="https://github.com/lawsonM525/future-u">Repo</a> | <a href="#">Live App</a>
     </td>
