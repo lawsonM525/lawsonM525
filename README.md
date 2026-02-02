@@ -78,7 +78,7 @@ Expertise in **Full Stack Development**, **AI Integration**, and **Mobile App En
 ---
 
 ## 🧠 Technical Deep Dives
-- **M++:** A high-level **Compiler** built using Brainfuck — mapping esoteric logic to usable code. 🤯
+- **M++:** A high-level **Compiler** built using [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) — mapping esoteric logic to usable code. 🤯
 - **System Architecture:** Scalable **Full-Stack** applications and **API Design**.
 
 ---
