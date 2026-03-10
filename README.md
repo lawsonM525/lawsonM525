@@ -1,167 +1,64 @@
+<div align="center">
+
 # Hi, I'm Michelle Lawson 🦩✨
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F710D4&center=true&vCenter=true&width=500&lines=Founder+of+CS+Girlies;Builder+%F0%9F%A7%B1;AI+Engineer+%2B+Product+Founder;Building+intentional+AI+for+Gen+Z" alt="Typing SVG" /></a>
+**Senior @ Smith College** · CS + Global Finance · Founder of [Computer Science Girlies](https://csgirlies.com)
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F710D4&center=true&vCenter=true&width=700&lines=Founder+of+CS+Girlies;Builder+%F0%9F%A7%B1;AI+Engineer+%2B+Product+Founder;Building+intentional+AI+for+Gen+Z" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2c/04/87/2c04873e0aa82bc9d8d33b60d4a50230.gif" width="400" alt="Michelle Lawson AI Engineer" />
-  <br>
-  <i>"Software Engineer & Product Founder bridging the gap between AI Innovation and Gen Z Lifestyle."</i> 💅
+<p>
+  <img src="https://i.pinimg.com/originals/2c/04/87/2c04873e0aa82bc9d8d33b60d4a50230.gif" width="360" alt="coding gif" />
 </p>
 
-Building **AI-powered tools** and **mobile applications** that help people design their dream lives. I'm a **Smith College '26** Computer Science student, a community builder for 200k+ **women in tech**, and a **Builder** who ships efficient **Full-Stack** code.
+[![Portfolio](https://img.shields.io/badge/Portfolio-michellelawson.me-000000?style=flat-square&logo=safari&logoColor=white)](https://www.michellelawson.me/projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-michelle--o--lawson-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelle-o-lawson)
+
+</div>
 
 ---
 
-## 🏗️ The "10 Apps in 10 Weeks" Challenge
-A showcase of **Agile Development** and **Rapid Prototyping**. I am shipping 10 production-ready products to solve real problems for the **Gen Z audience**.
+I build at the intersection of **AI**, **full-stack product development**, and **community-first tech**. I like shipping quickly, learning in public, and iterating toward products people actually use.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01. Sprite Sheet Generator</h3>
-      <video src="sprite-sheet-demo.mp4" width="100%" autoplay loop muted></video>
-      <p>Frontend Tooling for high-speed asset creation. Built to automate the "boring stuff" for game devs.</p>
-      <a href="https://github.com/lawsonM525/sprite-sheet-generator">Repo</a> | <a href="https://www.sprite-sheet-generator.com">Live App</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02. Future U</h3>
-      <img src="future-u-preview.jpg" width="100%" />
-      <p>AI-Powered Career Coaching and path mapping. Built with Next.js 14 and OpenAI. 💜</p>
-      <a href="https://github.com/lawsonM525/future-u">Repo</a> | <a href="https://www.future-u.app">Live App</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03. Pagez</h3>
-      <img src="https://via.placeholder.com/400x200?text=Pagez+Mobile" width="100%" />
-      <p>Relationship & habit journaling using AI-driven Knowledge Graphs. Personal CRM for the soft life.</p>
-      <a href="#">Coming Soon</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04. Dreamz</h3>
-      <img src="https://via.placeholder.com/400x200?text=Dreamz" width="100%" />
-      <p>React Native mobile lifestyle integration for high-performance productivity.</p>
-      <a href="https://github.com/lawsonM525/Dreamz">Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>05. Vibecut</h3>
-      <img src="https://via.placeholder.com/400x200?text=Vibecut" width="100%" />
-      <p>Programmatic video editing agent. Turning prompts into social-ready edits. 🎥</p>
-      <a href="#">In Dev</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>06. Daily</h3>
-      <img src="https://via.placeholder.com/400x200?text=Daily+SaaS" width="100%" />
-      <p>SaaS journaling app built on ChatGPT Apps SDK. Simple, elegant, efficient.</p>
-      <a href="https://github.com/lawsonM525/daily">Repo</a>
-    </td>
-  </tr>
-</table>
+## 🚀 What I'm Building Now
+
+- **[future-u](https://github.com/lawsonM525/future-u)** — AI-powered career planning product with Next.js and Supabase-backed workflows.
+- **[sprite-sheet-generator](https://github.com/lawsonM525/sprite-sheet-generator)** — Tool for generating animated sprite sheets with preview + export flow.
+- **[Aether](https://github.com/lawsonM525/Aether)** — AI companion concept with a cinematic landing page and ongoing product iteration.
+- **[code-nav](https://github.com/lawsonM525/code-nav)** — Early dev-tooling concept for visualizing repo structure and navigation.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/eb/1c/86/eb1c86030bdfba3bfb9d401dd72bf071.gif" width="600" alt="Building Mood" />
+  <img src="https://i.pinimg.com/originals/eb/1c/86/eb1c86030bdfba3bfb9d401dd72bf071.gif" width="560" alt="building mood" />
 </p>
 
----
+## 🧩 More Projects
 
-## 🛠️ Performance Tech Stack
-Expertise in **Full Stack Development**, **AI Integration**, and **Mobile App Engineering**.
+- **[personal-website](https://github.com/lawsonM525/personal-website)** — Portfolio and project showcase.
+- **[vibecut](https://github.com/lawsonM525/vibecut)** — Browser-based video editor using Remotion.
+- **[MysteryHub](https://github.com/lawsonM525/MysteryHub)** — Mystery platform with games, blogs, and recommendation flows.
+- **[comp-sci-girlies](https://github.com/lawsonM525/comp-sci-girlies)** — Community platform for CS Girlies initiatives.
+- **[speir-research-metrics](https://github.com/lawsonM525/speir-research-metrics)** — R/Python research analysis workflows.
 
-<p align="left">
-  <img src="https://media.tenor.com/debRmLSSY9EAAAAC/logo-animation-aquieoge.gif" width="50" alt="Python AI Engineering" title="Python"/> &nbsp;
-  <img src="https://media.tenor.com/9KNobD0YbiAAAAAC/appventure-myappventure.gif" width="50" alt="TypeScript Software Development" title="TypeScript"/> &nbsp;
-  <img src="https://media.tenor.com/wVLYCrMvRr4AAAAC/doud-logo-animated.gif" width="50" alt="React Mobile Apps" title="React"/> &nbsp;
-  <img src="https://media.tenor.com/veS3RsR-afoAAAAC/next-js-logo-next-js.gif" width="50" alt="Next.js Web Apps" title="Next.js"/> &nbsp;
-  <img src="https://media.tenor.com/cxY-NZbCSZoAAAAC/logo.gif" width="50" alt="OpenAI LLM Integration" title="OpenAI"/>
-</p>
+## 🛠️ Tech I Use
 
----
+```txt
+Languages      TypeScript · JavaScript · Python · Java · R
+Frontend       React · Next.js · TailwindCSS · Framer Motion
+Backend        Node.js · API design · Supabase
+AI             LLM integrations · prompt engineering · AI product UX
+Tools          Git · VS Code · Figma · Vercel
+```
 
-## 🧠 Technical Deep Dives
-- **M++:** A high-level **Compiler** built using [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) — mapping esoteric logic to usable code. 🤯
-- **System Architecture:** Scalable **Full-Stack** applications and **API Design**.
+## 📊 Stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lawsonm525&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsonm525&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+</div>
 
-## 📚 Recursive Mind Library
-Building a "Recursive Mind" one page at a time.
+## 🌸 Connect
 
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/91Ey0+6N-LL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Da Vinci</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/61qYKhU5hWL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Adweek</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Reading-brightgreen?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/71WMnKx5xCL.jpg" width="100" height="150" /><br/>
-      <b>Squibb</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Queue-blue?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/51VFkbM2siL.jpg" width="100" height="150" /><br/>
-      <b>Naval</b>
-    </td>
-    <td width="20%" align="center">
-      <!-- Empty slot for consistent 5x grid -->
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/61EYrVHLluL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Hesse</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
-      <img src="https://www.hachettebookgroup.com/wp-content/uploads/2024/01/9780316471909.jpg" width="100" height="150" /><br/>
-      <b>Utopia</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/81P+UUKWAXL._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Go-Giver</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/71+2-t7M35L._AC_UF1000,1000_QL80_.jpg" width="100" height="150" /><br/>
-      <b>Alchemist</b>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Status-Finished-pink?style=flat-square" /><br/>
-      <img src="https://m.media-amazon.com/images/I/81vRKV9N1tL.jpg" width="100" height="150" /><br/>
-      <b>Show Work</b>
-    </td>
-  </tr>
-</table>
+[Portfolio](https://www.michellelawson.me/projects) · [TikTok](https://tiktok.com/@michellescomputer) · [Instagram](https://instagram.com/michellexcomputer) · [LinkedIn](https://www.linkedin.com/in/michelle-o-lawson)
 
----
-
-## 📊 Analytics
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lawsonM525&show_icons=true&theme=tokyonight&cache_id=20260202" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawsonM525&theme=tokyonight&cache_id=20260202" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lawsonM525&layout=compact&theme=tokyonight&cache_id=20260202" />
-</p>
-
----
-
-## 🌸 Connect with michellescomputer
-<p align="center">
-  <img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/5b3c236c2b32/anigif_sub-buzz-8183-1594774797-1.gif?output-format=auto&output-quality=auto&downsize=360%3A%2A" width="300" alt="Connect Vibe" />
-</p>
-
-[Portfolio](https://michellelawson.me) | [TikTok](https://tiktok.com/@michellescomputer) | [Instagram](https://instagram.com/michellexcomputer) | [LinkedIn](https://linkedin.com/in/michelle-o-lawson/)
-
-**"You can achieve anything that you can imagine. Seriously."** — Building intentional **AI for Gen Z**. 🧱✨
+> Building intentional products that feel useful, expressive, and human.
